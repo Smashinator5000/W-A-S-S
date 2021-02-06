@@ -6,3 +6,11 @@ here is a small weather app. That can help you find your the weather of places y
 https://smashinator5000.github.io/W-A-S-S/
 
 <img src="./images/Capture-wass.PNG" alt="screenshot"/>
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+
+Licence:
+MIT
